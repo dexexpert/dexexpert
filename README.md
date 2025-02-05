@@ -62,7 +62,11 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
+
+## Profile Views
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 ## Github Stats
 
 <p align = "center">
